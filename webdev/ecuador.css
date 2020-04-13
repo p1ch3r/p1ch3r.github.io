@@ -1,0 +1,41 @@
+#top {
+  font-family: georgia;
+  position: center;
+  left: 100px;
+  top: 100px;
+  color: #0B4F8D;
+  }
+#second {
+  font-family: times new roman;
+  color: #8D0303;
+  font-size:140%;
+}
+
+h2 {
+  font-family: arial;
+  color: #BF940E;
+  
+  
+}
+
+.attribution{
+  font-size:10%;
+}
+
+.wonder {
+  color: #006400f;
+  font-family: georgia;
+  font-size:115%;
+ 
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  font-size: 150%;
+}
+a:visited{
+  color: #674EA7;
+}
