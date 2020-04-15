@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> MMP100 Web Project </title>
+  </head>
+  <body>
+    <h1 id = "top">
+      MAJOR CITIES IN ECUADOR
+    </h1>
+    <h1 id = "second">
+     Let's discover the most important cities in the center of the world.
+    </h1>
+    <img src="https://live.staticflickr.com/2744/4448812599_452263dd02_b.jpg" alt="landscape"/>
+    <p class="attribution">
+      "Church and State" by nicomachus is licensed under CC BY-NC 2.0 
+      </p>
+    <h2>
+      Welcome to the "Middle of the World"
+    </h2>
+    <p class = "wonder">
+      Ecuador is a South American country whose capital city is Quito. The country derives its name from the equator which passes through the country. Ecuador is divided into 24 administrative provinces within which some of Ecuador’s biggest cities are located. Most of the population of Ecuador is concentrated in the urban towns and cities where they access employment opportunities from the industries and businesses running in these cities. Since the country was colonized by the Spanish, most of her towns and cities were established during this period and continue to serve most of their original functions.
+    </p>
+        <h2>
+      Choose the city you want to learn about:
+    </h2>
+    <p class = "visited">
+    <a href="http://www.google.com">Quito, "The Capitol"</a>
+  </br>
+    <a href="http://www.google.com">Guayaquil, "Principal Port"</a>
+</br>
+    <a href="http://www.google.com">Cuenca, "The Most Developed City"</a>
+</br>
+    <a href="http://www.google.com">Ambato, "Cradle of the Three Juans"</a>
+</p>
+  </body>
+</html>
