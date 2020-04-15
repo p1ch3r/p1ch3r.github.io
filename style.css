@@ -1,0 +1,42 @@
+#top {
+  font-family: tahoma;
+  position: static;
+  left: 100px;
+  top: 100px;
+  color: #B08F2A;
+  text-decoration: underline;
+  }
+#second {
+  font-family: times new roman;
+  color: #654321;
+  font-size:140%;
+  
+}
+
+h2 {
+  font-family: arial;
+  color: #1C0E49;
+  
+  
+}
+
+.attribution{
+  font-size:10%;
+}
+
+.wonder {
+  color: #006400f;
+  font-family: arial;
+ 
+}
+
+a{
+  text-decoration: underline;
+}
+
+a:hover{
+  font-size: 150%;
+}
+a:visited{
+  color: #888888;
+}
